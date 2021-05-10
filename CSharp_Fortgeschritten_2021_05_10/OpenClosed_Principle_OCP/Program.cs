@@ -37,6 +37,12 @@ namespace OpenClosed_Principle_OCP
     #endregion
 
     #region Better Variant
+
+    public interface IReportGenerator
+    {
+        void ReportGenerator(Employee em);
+    }
+
     public abstract class ReportGeneratorBase
     {
         public abstract void ReportGenerator(Employee em);

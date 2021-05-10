@@ -48,6 +48,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Übung_Solid2", "Übung_Sol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringBenachmarkTest", "StringBenachmarkTest\StringBenachmarkTest.csproj", "{B621F856-EC2C-42E4-9F19-32864A5E4D83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{48672D10-336E-4189-81AD-08710DEEBB02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,6 +104,10 @@ Global
 		{B621F856-EC2C-42E4-9F19-32864A5E4D83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B621F856-EC2C-42E4-9F19-32864A5E4D83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B621F856-EC2C-42E4-9F19-32864A5E4D83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48672D10-336E-4189-81AD-08710DEEBB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48672D10-336E-4189-81AD-08710DEEBB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48672D10-336E-4189-81AD-08710DEEBB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48672D10-336E-4189-81AD-08710DEEBB02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -126,6 +132,7 @@ Global
 		{CD0127F7-C2C8-446A-AF68-C38FFFA5C87B} = {A4800BA9-C9B1-48EE-8D80-933584C640AD}
 		{36BBADD6-1F51-44A8-BF36-311A40CDB6F3} = {A4800BA9-C9B1-48EE-8D80-933584C640AD}
 		{B621F856-EC2C-42E4-9F19-32864A5E4D83} = {77005F58-0EE2-4974-9B2E-60B5C781079F}
+		{48672D10-336E-4189-81AD-08710DEEBB02} = {77005F58-0EE2-4974-9B2E-60B5C781079F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31D99EA8-349D-4FF2-B7E7-86FD606DC663}

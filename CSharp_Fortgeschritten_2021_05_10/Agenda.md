@@ -4,9 +4,9 @@ Email: KevinW@ppedv.de
 
 Montag:
 
-- [ ] C# 7.0 -> 9.0 
-- [ ] Solid 
-- [ ] Benchmark StringBuilder vs +-Operator (bei strings)
+- [x] C# 7.0 -> 9.0 
+- [x] Solid 
+- [x] Benchmark StringBuilder vs +-Operator (bei strings)
 
 
 

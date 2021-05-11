@@ -11,7 +11,7 @@ namespace TaskErgebnisAnContinueTaskÜbergeben
             Task<string> task = Task.Run(DayTime);
             task.ContinueWith(abc => ShowDayTime(abc.Result), TaskContinuationOptions.OnlyOnRanToCompletion);
             task.ContinueWith(task => ForErrorHandling(), TaskContinuationOptions.OnlyOnFaulted);
-
+            
             Task.Run(DayTime)
                 .ContinueWith(abc => ShowDayTime(abc.Result), TaskContinuationOptions.OnlyOnRanToCompletion)
                 

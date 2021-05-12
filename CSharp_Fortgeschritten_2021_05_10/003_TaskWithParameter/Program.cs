@@ -15,7 +15,7 @@ namespace _003_TaskWithParameter
            
             Task<string> task2 = Task.Run<string>(() => MachEtwas(katze));
 
-            Task<string> easyTask = new Task<string(() => MachEtwas(katze));
+            Task<string> easyTask = new Task<string>(() => MachEtwas(katze));
             easyTask.Start();
 
             task1.Wait();

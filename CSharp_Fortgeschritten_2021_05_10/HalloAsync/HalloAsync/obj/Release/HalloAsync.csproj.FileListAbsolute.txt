@@ -1,0 +1,9 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\obj\Release\HalloAsync.Form1.resources
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\obj\Release\HalloAsync.Properties.Resources.resources
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\obj\Release\HalloAsync.csproj.GenerateResource.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\obj\Release\HalloAsync.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\bin\Release\HalloAsync.exe.config
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\bin\Release\HalloAsync.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\bin\Release\HalloAsync.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\obj\Release\HalloAsync.exe
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\CSharp_Fortgeschritten_2021_05_10\HalloAsync\HalloAsync\obj\Release\HalloAsync.pdb

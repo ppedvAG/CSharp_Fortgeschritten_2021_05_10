@@ -11,7 +11,7 @@ namespace _003_ThreadBeenden
             t.Start();
 
             Thread.Sleep(6000);
-            //t.Abort();
+            //t.Abort(); -> obselete
             t.Interrupt();
             Console.WriteLine("Thread wurde beendet");
         }

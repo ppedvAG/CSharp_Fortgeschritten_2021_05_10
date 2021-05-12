@@ -15,6 +15,7 @@ namespace _005_LockSample
         {
             try
             {
+                //Anderere Thread wartet hier
                 lock (lockObject)
                 {
                     //Hier darf nur ein Thread rein

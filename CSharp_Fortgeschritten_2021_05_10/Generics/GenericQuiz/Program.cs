@@ -34,9 +34,18 @@ namespace GenericQuiz
             DataStore1<int> store11 = new DataStore1<int>();
             //DataStore1<MyRecord> store7 = new DataStore1<MyRecord>();
 
+
+            
+
+
         }
     }
 
+
+    class DataStore1<T, TT> where T : Animal 
+    {
+
+    }
     class DataStore<T> where T : class
     {
         public T Data { get; set; }

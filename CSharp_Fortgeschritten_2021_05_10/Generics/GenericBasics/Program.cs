@@ -24,8 +24,6 @@ namespace GenericBasics
                 Console.WriteLine(currenEntry.Value);
             }
 
-
-
             DataStore<Guid> data = new DataStore<Guid>();
             data.AddOrUpdate(1, Guid.NewGuid());
 

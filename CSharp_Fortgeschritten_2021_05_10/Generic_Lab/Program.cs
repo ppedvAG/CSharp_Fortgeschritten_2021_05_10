@@ -45,39 +45,5 @@ namespace Generic_Lab
 
 
 
-    #region Solution Variante
-    public interface IPersonStatistik<T> where T : Person
-    {
-        void ShowStatistk(T Person);
-    }
-
-    //public abstract class RepositoryBase<TEntity, TKey> : IRepositoryBase<TEntity, TKey> where TEntity : class
-    public abstract class PersonStatistics<T> : IPersonStatistik<T> where T : Person
-    {
-        public abstract void ShowStatistk(T Person);
-    }
-    public class FinishEmployeeStatistics : PersonStatistics<Employee>
-    {
-        public override void ShowStatistk(Employee Person)
-        {
-        }
-    }
-
-
-    public class FinishEmployeeStatisticsB : IPersonStatistik<Employee>
-    {
-        public void ShowStatistk(Employee Person)
-        {
-           //Mach was
-        }
-    }
-    public class FinishFreelancerStatistics : PersonStatistics<Freelancer>
-    {
-        public override void ShowStatistk(Freelancer Person)
-        {
-
-        }
-    }
-    #endregion
 
 }

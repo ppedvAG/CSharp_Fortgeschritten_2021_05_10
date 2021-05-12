@@ -15,7 +15,6 @@ namespace ContinueWithSample
                 throw new Exception();
             });
             t1.Start();
-
             t1.ContinueWith(t => { Console.WriteLine("T1 Continue"); }); //wird immer ausgeführt
             t1.ContinueWith(t => { Console.WriteLine("T1 ist ok"); }, TaskContinuationOptions.OnlyOnRanToCompletion); 
             t1.ContinueWith(t => { Console.WriteLine("T1 hat ein Fehler"); }, TaskContinuationOptions.OnlyOnFaulted);

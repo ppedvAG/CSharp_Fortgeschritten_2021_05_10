@@ -1,0 +1,14 @@
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\bin\Debug\net5.0\MyApp.DataAccess.deps.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\bin\Debug\net5.0\MyApp.DataAccess.runtimeconfig.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\bin\Debug\net5.0\MyApp.DataAccess.runtimeconfig.dev.json
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\bin\Debug\net5.0\MyApp.DataAccess.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\bin\Debug\net5.0\ref\MyApp.DataAccess.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\bin\Debug\net5.0\MyApp.DataAccess.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\obj\Debug\net5.0\MyApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\obj\Debug\net5.0\MyApp.DataAccess.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\obj\Debug\net5.0\MyApp.DataAccess.AssemblyInfo.cs
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\obj\Debug\net5.0\MyApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\obj\Debug\net5.0\MyApp.DataAccess.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\obj\Debug\net5.0\ref\MyApp.DataAccess.dll
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\obj\Debug\net5.0\MyApp.DataAccess.pdb
+C:\Aktueller Kurs\CSharp_Fortgeschritten_2021_05_10\EFCoreIntro\MyApp.DataAccess\obj\Debug\net5.0\MyApp.DataAccess.genruntimeconfig.cache

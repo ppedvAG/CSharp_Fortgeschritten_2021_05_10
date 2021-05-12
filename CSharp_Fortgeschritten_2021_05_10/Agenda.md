@@ -22,8 +22,9 @@ Mittwoch:
 - [ ] Erweiterungsmethoden  
 - [ ] Operatoren
 - [ ] Anonyme Typen + dynamische Typen 
-- [ ] EF Core Einstieg (Zusatzthema)
-    - [ ] Repository / UnitOfWork Pattern
+
+
+
 
 
 Link-Sammlung

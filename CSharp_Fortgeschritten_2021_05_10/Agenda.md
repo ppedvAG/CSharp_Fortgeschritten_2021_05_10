@@ -14,14 +14,16 @@ Dienstag:
 - [x] Events / EventHandler/ Actions / Func (fertig)
 
 Mittwoch: 
-- [ ] GenericLab
-- [ ] Reflections (fertig)
-- [ ] Plugin-Pattern (fertig) 
-- [ ] Serialisierung (fertig)
-- [ ] Linq / Lambda (fertig) 
-- [ ] Anonyme Typen + dynamische Typen (fertig)
-- [ ] Erweiterungsmethoden  (fertig) 
+- [x] GenericLab
+- [x] Reflections 
+- [x] Plugin-Pattern 
+- [x] Serialisierung 
+- [ ] Linq / Lambda 
+- [ ] Erweiterungsmethoden  
 - [ ] Operatoren
+- [ ] Anonyme Typen + dynamische Typen 
+- [ ] EF Core Einstieg (Zusatzthema)
+    - [ ] Repository / UnitOfWork Pattern
 
 
 Link-Sammlung

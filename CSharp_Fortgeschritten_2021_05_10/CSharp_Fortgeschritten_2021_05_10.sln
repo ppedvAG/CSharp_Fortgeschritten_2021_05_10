@@ -122,6 +122,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBasics", "Generics\G
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericQuiz", "Generics\GenericQuiz\GenericQuiz.csproj", "{713F420A-06B5-4EE7-8C45-A7254D486FBD}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrumpTaschenrechner", "TrumpTaschenrechner\TrumpTaschenrechner.csproj", "{1833A9F5-D494-4611-8CD9-E4A118119E97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinqAndLambdaSamples", "LinqAndLambdaSamples\LinqAndLambdaSamples.csproj", "{0A37C870-9ABD-4E49-B509-85DCB73529C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -300,6 +304,14 @@ Global
 		{713F420A-06B5-4EE7-8C45-A7254D486FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{713F420A-06B5-4EE7-8C45-A7254D486FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{713F420A-06B5-4EE7-8C45-A7254D486FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1833A9F5-D494-4611-8CD9-E4A118119E97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1833A9F5-D494-4611-8CD9-E4A118119E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1833A9F5-D494-4611-8CD9-E4A118119E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1833A9F5-D494-4611-8CD9-E4A118119E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A37C870-9ABD-4E49-B509-85DCB73529C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A37C870-9ABD-4E49-B509-85DCB73529C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A37C870-9ABD-4E49-B509-85DCB73529C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A37C870-9ABD-4E49-B509-85DCB73529C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -359,6 +371,8 @@ Global
 		{2AF13AD8-903E-41C5-95C3-6C9182585E60} = {C5E2CF2E-2F68-4FD2-8017-EB28070FE032}
 		{6DC968C2-1DA3-4DF4-97F2-20AE8604842F} = {390647BC-18C2-45B2-8663-5A9E77DB6AE0}
 		{713F420A-06B5-4EE7-8C45-A7254D486FBD} = {390647BC-18C2-45B2-8663-5A9E77DB6AE0}
+		{1833A9F5-D494-4611-8CD9-E4A118119E97} = {C5E2CF2E-2F68-4FD2-8017-EB28070FE032}
+		{0A37C870-9ABD-4E49-B509-85DCB73529C0} = {C5E2CF2E-2F68-4FD2-8017-EB28070FE032}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {31D99EA8-349D-4FF2-B7E7-86FD606DC663}
